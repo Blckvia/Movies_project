@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Github pages: https://blckvia.github.io/react-movies-project/
+## Github pages: 
+https://blckvia.github.io/react-movies-project/
 
 ## Available Scripts
 
