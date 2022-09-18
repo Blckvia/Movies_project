@@ -13,9 +13,6 @@ class Search extends React.Component {
     };
 
     handleFilter = (event) => {
-        if (event.trim === "") {
-            // this.setState({ disabled: true });
-        }
         this.setState(
             () => ({ type: event.target.dataset.type }),
             () => {
